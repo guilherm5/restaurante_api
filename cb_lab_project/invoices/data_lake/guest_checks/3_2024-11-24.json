@@ -1,0 +1,33 @@
+[
+    {
+        "guest_check_id": 3,
+        "chk_num": 1003,
+        "opn_bus_dt": "2024-11-24",
+        "opn_utc": "2024-11-26T21:09:10.453442Z",
+        "opn_lcl": "2024-11-26T21:09:10.453442Z",
+        "clsd_bus_dt": "2024-11-24",
+        "clsd_utc": null,
+        "clsd_lcl": null,
+        "last_trans_utc": "2024-11-26T21:09:10.453442Z",
+        "last_trans_lcl": "2024-11-26T21:09:10.453442Z",
+        "last_updated_utc": "2024-11-26T21:09:10.453442Z",
+        "last_updated_lcl": "2024-11-26T21:09:10.453442Z",
+        "clsd_flag": false,
+        "gst_cnt": 3,
+        "sub_ttl": "80.00",
+        "non_txbl_sls_ttl": null,
+        "chk_ttl": "100.00",
+        "dsc_ttl": "3.00",
+        "pay_ttl": "97.00",
+        "bal_due_ttl": null,
+        "rvc_num": null,
+        "ot_num": null,
+        "oc_num": null,
+        "tbl_num": 8,
+        "tbl_name": "Table 3",
+        "emp_num": 103,
+        "num_srvc_rd": 3,
+        "num_chk_prntd": 2,
+        "restaurant_id": 3
+    }
+]

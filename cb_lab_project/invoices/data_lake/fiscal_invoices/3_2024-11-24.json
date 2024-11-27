@@ -1,0 +1,32 @@
+[
+    {
+        "guest_check_line_item_id": 3,
+        "guest_check_id": 3,
+        "rvc_num": 3,
+        "dtl_ot_num": 3,
+        "dtl_oc_num": null,
+        "line_num": 1,
+        "dtl_id": 103,
+        "detail_utc": "2024-11-26T21:09:10.453442Z",
+        "detail_lcl": "2024-11-26T21:09:10.453442Z",
+        "last_update_utc": "2024-11-26T21:09:10.453442Z",
+        "last_update_lcl": "2024-11-26T21:09:10.453442Z",
+        "bus_dt": "2024-11-24",
+        "ws_num": 3,
+        "dsp_ttl": "20.00",
+        "dsp_qty": 3,
+        "agg_ttl": "60.00",
+        "agg_qty": 9,
+        "chk_emp_id": 3,
+        "chk_emp_num": 103,
+        "svc_rnd_num": 3,
+        "seat_num": 2,
+        "menu_item": {
+            "menu_item_id": 3,
+            "mod_flag": false,
+            "incl_tax": "10.00",
+            "active_taxes": "Sales Tax",
+            "prc_lvl": 1
+        }
+    }
+]
